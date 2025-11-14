@@ -71,5 +71,6 @@ give_loadout()
     //precacheitem( "m21_scoped_cloth_silenced" );
     //precacheitem( "m21_scoped_arctic_silenced" );
     //precacheitem( "m14_scoped_silencer" );
+	
     precacheitem( "t5_raygun_mp" );
 }
